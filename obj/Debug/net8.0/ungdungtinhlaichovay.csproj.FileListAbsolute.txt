@@ -1,0 +1,14 @@
+E:\ungdungtinhlaichovay\bin\Debug\net8.0\ungdungtinhlaichovay.exe
+E:\ungdungtinhlaichovay\bin\Debug\net8.0\ungdungtinhlaichovay.deps.json
+E:\ungdungtinhlaichovay\bin\Debug\net8.0\ungdungtinhlaichovay.runtimeconfig.json
+E:\ungdungtinhlaichovay\bin\Debug\net8.0\ungdungtinhlaichovay.dll
+E:\ungdungtinhlaichovay\bin\Debug\net8.0\ungdungtinhlaichovay.pdb
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.GeneratedMSBuildEditorConfig.editorconfig
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.AssemblyInfoInputs.cache
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.AssemblyInfo.cs
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.csproj.CoreCompileInputs.cache
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.dll
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\refint\ungdungtinhlaichovay.dll
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.pdb
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ungdungtinhlaichovay.genruntimeconfig.cache
+E:\ungdungtinhlaichovay\obj\Debug\net8.0\ref\ungdungtinhlaichovay.dll
